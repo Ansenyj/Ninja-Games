@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab836af5fde4aca458fae3e52806c375
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: zihun55hao-longyinshouhsu
+  fontNames:
+  - zihun55hao-longyinshouhsu
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
